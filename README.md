@@ -63,3 +63,7 @@ node tools/validate.js
 ```
 
 Chaque question contenant du code doit avoir été compilée et exécutée (`javac --release 21`) avant d'être ajoutée.
+
+## Licence
+
+Code et contenu sous licence [MIT](LICENSE).
